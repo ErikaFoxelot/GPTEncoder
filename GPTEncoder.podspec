@@ -18,12 +18,6 @@ Pod::Spec.new do |s|
 
     s.source       = { :git => "https://github.com/alfianlosari/GPTEncoder.git", :tag => s.version }
     s.source_files  = ["Sources/GPTEncoder/**/*.swift"]
-    s.resource_bundles = {
-        'GPTEncoder_GPTEncoder' => [
-           'Sources/GPTEncoder/Resources/vocab.bpe',
-           'Sources/GPTEncoder/Resources/encoder.json'
-        ]
-    }
     
       
     s.ios.deployment_target = "12.0"

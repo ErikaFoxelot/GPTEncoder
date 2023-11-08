@@ -12,10 +12,7 @@ let package = Package(
     dependencies: [],
     targets: [
         .target(
-            name: "GPTEncoder",
-            resources: [
-                .process("Resources")
-            ]),
+            name: "GPTEncoder"),
         .testTarget(
             name: "GPTEncoderTests",
             dependencies: ["GPTEncoder"]),

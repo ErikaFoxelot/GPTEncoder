@@ -1,3 +1,5 @@
+let vocab_bpe = 
+"""
 #version: 0.2
 Ġ t
 Ġ a
@@ -3210,7 +3212,7 @@ nes day
 k en
 Ġnot e
 Ġteam s
-Ġ \
+Ġ \\
 air s
 ĠG reen
 Ġh undred
@@ -6595,7 +6597,7 @@ it ial
 T V
 ĠGe org
 Ġpost s
-\ \
+\\ \\
 Ġlawy er
 Ġequ ival
 Ġm and
@@ -7222,7 +7224,7 @@ us hed
 Ġris ks
 ĠO K
 Ġreported ly
-: \
+: \\
 Ġpl ate
 Ġsubject s
 Ġattempt ed
@@ -7622,7 +7624,7 @@ iam i
 Ġur ban
 Ġa x
 es sel
-\ "
+\\ "
 Ġquarter back
 Ġreg ister
 ĠLab or
@@ -10882,7 +10884,7 @@ p ng
 ĠH aving
 umb led
 ĠF un
-\ /
+\\ /
 ĠS earch
 ple x
 Ġdiscuss ing
@@ -13169,7 +13171,7 @@ os er
 Ġexpect s
 bl ack
 or ph
-\\ \\
+\\\\ \\\\
 Ġaccept ance
 Ġrad ar
 s is
@@ -16535,7 +16537,7 @@ path y
 ĠE asy
 Ġpist ol
 < <
-Ġ\ (
+Ġ\\ (
 t arget
 hel p
 Ġinter pre
@@ -17148,7 +17150,7 @@ Load er
 W ashington
 at isf
 ĠCreat ive
-\ .
+\\ .
 ĠAut om
 red ict
 Ġrecept or
@@ -17296,7 +17298,7 @@ Sept ember
 Ġ Ø
 ĠGl enn
 ĠD aw
-= \"
+= \\"
 ĠPolit ics
 Ġgu ides
 Ġd ioxide
@@ -19158,7 +19160,7 @@ and roid
 s ix
 ĠSh a
 Ġrest oration
-) \
+) \\
 W S
 oy s
 Ġillust rate
@@ -19733,7 +19735,7 @@ u art
 Ġstun ned
 Ġadv ancing
 Ġlack ed
-Ġ\ "
+Ġ\\ "
 Ġsch izophren
 Ġeleg ant
 Ġconf erences
@@ -21550,7 +21552,7 @@ BS D
 Ġle aning
 ĠP ew
 Ġviol ates
-\\\\ \\\\
+\\\\\\\\ \\\\\\\\
 ĠCom ing
 w ire
 Ġpo et
@@ -22468,7 +22470,7 @@ qu ote
 ĠE rik
 im er
 ĠCom mercial
-\ )
+\\ )
 Ġlegitim acy
 Ġd ental
 ĠMe an
@@ -26610,7 +26612,7 @@ AC C
 ĠS ight
 Ġdoct r
 ---- ---
-Ġ\ \
+Ġ\\ \\
 Ġm alt
 R oll
 Ġâī ¥
@@ -30221,7 +30223,7 @@ ush ima
 agn ar
 Ġrec oil
 Ġpass ions
-\ ":
+\\ ":
 Ġte e
 Ġabol ition
 ĠCreat ing
@@ -31221,7 +31223,7 @@ it he
 ĠR D
 c rop
 Ġsqu ads
-{ \
+{ \\
 à ¹
 ĠE h
 Ġinterview ing
@@ -31982,7 +31984,7 @@ RE AM
 Ġser otonin
 Ġcultiv ate
 ag ogue
-} \
+} \\
 Ġmos ques
 ĠSun ny
 Ġre active
@@ -34116,7 +34118,7 @@ b h
 Ġpar anoia
 ĠUnic ode
 Ġegreg ious
-Ġ\ '
+Ġ\\ '
 ĠOsw ald
 Ġgra vel
 ĠSim psons
@@ -34259,7 +34261,7 @@ L IN
 ĠC ao
 Ġover th
 Ġla ure
->> \
+>> \\
 ĠV iper
 ach a
 Off set
@@ -34347,10 +34349,10 @@ arch s
 Ġsp urred
 Ġd ossier
 Ġover looking
-\\\\\\\\ \\\\\\\\
+\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\
 Fore st
 ĠCom es
-\ ",
+\\ ",
 ĠIran ians
 Ġf ixtures
 L aughs
@@ -36825,7 +36827,7 @@ anc ock
 ĠPr ague
 Ġimpro v
 ĠDev in
-Ġ" \
+Ġ" \\
 par alle
 Ġsuprem acists
 ĠB illion
@@ -37759,7 +37761,7 @@ exp ression
 Ġsh aving
 add en
 re ly
-( \
+( \\
 ism a
 ĠReg ulatory
 CH AR
@@ -37957,7 +37959,7 @@ O x
 rom ancer
 Ġinqu ire
 ĠM oves
-\ ">
+\\ ">
 ĠVari ant
 ĠMess iah
 ĠL CS
@@ -39023,7 +39025,7 @@ Again st
 9 60
 Ġmeth amphetamine
 Ġnormal ized
-Ġ$ \
+Ġ$ \\
 ĠPre cision
 ĠGu am
 Ġch oked
@@ -40462,7 +40464,7 @@ ph ase
 th ank
 HT TP
 Ġcomm uter
-Ġ\( \
+Ġ\\( \\
 .. /
 ĠReg ener
 ĠDO I
@@ -41184,7 +41186,7 @@ ic hen
 Ġunve iling
 Ġsen seless
 Ġfisher ies
-\ -
+\\ -
 Ġh inges
 Ġcalcul us
 My th
@@ -42797,7 +42799,7 @@ contin ue
 ĠA X
 ĠÃ ī
 Ġ+ #
-\ '
+\\ '
 Direct ory
 ab iding
 Ġf eral
@@ -43582,7 +43584,7 @@ Ex port
 Ġpear l
 ib el
 ĠPAC s
-Ġ{ \
+Ġ{ \\
 Ġact u
 ĠHS BC
 camp us
@@ -45165,7 +45167,7 @@ Ham ilton
 Ġnas cent
 Ġirresist ible
 Ġaw fully
-\/ \/
+\\/ \\/
 Ġequ ate
 Ġanthrop ology
 ĠSylv ia
@@ -49521,7 +49523,7 @@ Syn opsis
 ĠM ILL
 ob ook
 mass ive
-\ <
+\\ <
 Ġh ump
 ĠPref erences
 Engine Debug
@@ -49999,3 +50001,4 @@ om inated
 ĠColl ider
 Ġinform ants
 Ġg azed
+"""
